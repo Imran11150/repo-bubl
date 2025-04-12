@@ -1,0 +1,42 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+
+body{
+padding: 300px;
+margin: 300px;
+
+ background-color: black; 
+  transition: background-color 0.5s ease;
+}
+
+
+.button01{
+    margin: 10px;
+   border-radius: 50px;
+   background-color: greenyellow;
+   text-shadow: 10px 10px 10px;
+   
+}
+.button02{
+margin: 10px;
+border-radius: 50px;
+background-color: red;
+text-shadow: 10px 10px 10px;
+}
+
+.button01:hover{
+font-size: 30px;
+
+}
+.button02:hover{
+    font-size: 30px;
+    
+    }
+    
+
+
+
+
